@@ -1,2 +1,2 @@
 # AirlineData_Prediction_RNN
-Predicting time series month wise airline data using Recurrent Neural Networks
+Predicting time series monthly airline passenger data using Recurrent Neural Networks
